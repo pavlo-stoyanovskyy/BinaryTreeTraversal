@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Authors>Pavel Stoyanovskyy</Authors>
+    <Company>Pavel Stoyanovskyy</Company>
+  </PropertyGroup>
+
+</Project>
